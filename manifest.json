@@ -1,8 +1,8 @@
 {
-  "name": "Make My Outfit",
-  "short_name": "Outfit",
-  "start_url": "/make-my-outfit/",
-  "scope": "/make-my-outfit/",
+  "name": "SRS",
+  "short_name": "SRS",
+  "start_url": "/SRS/",
+  "scope": "/SRS/",
   "display": "standalone",
   "background_color": "#0b0d0f",
   "theme_color": "#111315",
