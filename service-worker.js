@@ -1,4 +1,4 @@
-const CACHE_NAME = "make-my-outfit-cache-v1";
+const CACHE_NAME = "SRS-v1";
 const URLS_TO_CACHE = [
   "./",                // index.html
   "./index.html",
